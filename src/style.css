@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 nav {
@@ -15,6 +16,11 @@ main {
 section {
   min-height: 80vh;
   border: 1px solid red;
+}
+
+img {
+  height: auto;
+  width: 100%;
 }
 
 .bordered {
